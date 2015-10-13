@@ -1,4 +1,4 @@
-My Awesome Book
+My Python Learning at Github
 =======
 
-This file serves as your book's preface, a great place to describe your book's content and ideas.
+this book will record my experiences of Phthon learning at Github.

@@ -1,11 +1,11 @@
-{
-    "plugins": [
-        "disqus"
-    ],
-    "pluginsConfig": {
-        "shortName": "RichardSZ01"
+{"plugins":["disqus"],
+    "pluginsConfig":{
+        "disqus":{
+            "shortname":"RichardSZ"
+        }
     }
 }
+
 
 
  
